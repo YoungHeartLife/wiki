@@ -9,7 +9,7 @@ def sendMail(body):
     from_mail = 'm18612884847@163.com'
     mail_pass = 'gushuai110'
     to_mail = ['1634044987111@qq.com', '1353437177@qq.com']
-    cc_mail = ['gushuai@shuziguanxing1231.com']
+    cc_mail = ['gushuai@shuziguanxing.com']
     from_name = 'monitor'
     subject = u'服务监控状态'.encode('gbk')   # 以gbk编码发送，一般邮件客户端都能识别
 #     msg = '''\
