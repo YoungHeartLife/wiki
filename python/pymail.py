@@ -8,7 +8,7 @@ def sendMail(body):
     smtp_server = 'smtp.163.com'
 #    smtp_server = 'mail.qq.com'
     from_mail = 'm18612884847@163.com'
-    mail_pass = 'gushuai110'
+    mail_pass = 'gu*（*（*（0*（*（*（'
     to_mail = ['1634044987111@qq.com', '1353437177@qq.com']
     cc_mail = ['gushuai@shuziguanxing.com']
     from_name = 'monitor'
