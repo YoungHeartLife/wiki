@@ -8,9 +8,9 @@ def sendMail(body):
     smtp_server = 'smtp.163.com'
 #    smtp_server = 'mail.qq.com'
     from_mail = 'm18612884847@163.com'
-    mail_pass = 'gu*（*（*（0*（*（*（'
+    mail_pass = 'gujiade*（*（*（0*（*（*（'
     to_mail = ['1634044987111@qq.com', '1353437177@qq.com']
-    cc_mail = ['gushuai@shuziguanxing.com']
+    cc_mail = ['gushuai@********.com']
     from_name = 'monitor'
     subject = u'服务监控状态'.encode('gbk')   # 以gbk编码发送，一般邮件客户端都能识别
 #     msg = '''\
